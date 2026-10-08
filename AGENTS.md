@@ -21,3 +21,9 @@ APKG files on disk with the user's live Anki collection through AnkiConnect.
   a separate explicit command and tests.
 - Keep the library usable from deck repositories by exposing both importable
   functions and a CLI.
+
+## Publication safety
+
+Follow `docs/PUBLICATION_PROCESS.md`. Install the shared local hooks before
+public pushes, keep live artifacts outside Git, and check exact release bytes.
+The required hosted publication check emits no private diagnostics.
