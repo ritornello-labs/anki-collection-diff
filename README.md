@@ -1,5 +1,7 @@
 # Anki Collection Diff
 
+[Explore all Ritornello decks and add-ons](https://ritornello.dev/).
+
 [![PyPI](https://img.shields.io/pypi/v/anki-collection-diff.svg)](https://pypi.org/project/anki-collection-diff/)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11%2B-3776ab)](https://pypi.org/project/anki-collection-diff/)
 [![Source on GitHub](https://img.shields.io/badge/source-GitHub-24292f)](https://github.com/ritornello-labs/anki-collection-diff)
@@ -116,3 +118,5 @@ PyPI token.
 ## License
 
 MIT. See [LICENSE](LICENSE).
+
+Support continued development: [ritornello.dev/support](https://ritornello.dev/support).
